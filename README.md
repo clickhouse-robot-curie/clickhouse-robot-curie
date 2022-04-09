@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @clickhouse-robot-curie
+- 👀 I’m interested in ClickHouse
+- 🌱 I’m currently learning how to automate things
+- 💞️ I’m looking to collaborate on ClickHouse
+- 📫 How to reach me - call @alexey-milovidov
